@@ -1,5 +1,11 @@
 # Кирюхин Александр
 
+## Контакты
+
+* Почта: [a.kiryukhin@mail.ru](mailto:a.kiryukhin@mail.ru)
+* ВК: [@neonxp](https://vk.com/neonxp)
+* GitHub: [@neonxp](https://github.com/neonxp)
+
 ## Обо мне
 
 Fullstack-разрабочик. Имею компетенции в фронтенде (ReactJS), бекенде (GoLang, NodeJS и PHP7/Symfony3) и в мобильной разработке (React Native).
